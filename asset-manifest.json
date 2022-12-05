@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-sidebar/static/css/main.62b73432.css",
+    "main.js": "/react-sidebar/static/js/main.9d716384.js",
+    "static/media/boxicons.svg": "/react-sidebar/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
+    "static/media/boxicons.eot": "/react-sidebar/static/media/boxicons.dfc882ec9689f820c7c9.eot",
+    "static/media/boxicons.woff": "/react-sidebar/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
+    "static/media/boxicons.ttf": "/react-sidebar/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
+    "static/media/boxicons.woff2": "/react-sidebar/static/media/boxicons.60f603cccbdff82a523c.woff2",
+    "index.html": "/react-sidebar/index.html",
+    "main.62b73432.css.map": "/react-sidebar/static/css/main.62b73432.css.map",
+    "main.9d716384.js.map": "/react-sidebar/static/js/main.9d716384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b73432.css",
+    "static/js/main.9d716384.js"
+  ]
+}
