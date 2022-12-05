@@ -1,0 +1,24 @@
+[
+    {
+        "icon": "bx bxs-star",
+        "count": "1,995",
+        "title": "Total Leads"
+    },
+    {
+        "icon": "bx bxs-user-account",
+        "count": "05",
+        "title": "Employees"
+    },
+    {
+        "icon": "bx bxs-cog",
+        "count": "2,632",
+        "title": "Total Services"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "02",
+        "title": "Customers"
+    }
+
+    
+]
